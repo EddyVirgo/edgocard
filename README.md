@@ -172,7 +172,7 @@
     <div class="container">
         <div class="main-content">
             <div class="profile">
-                <img src="https://picsum.photos/seed/eddyvirgo/150/150.jpg" alt="伍永强" class="avatar">
+                <img src="<img src=”https://i.imgur.com/zcpsgqH.png" alt="伍永强" class="avatar">
                 <div class="name">伍永强 Eddy Virgo</div>
                 <div class="title">印尼苏北省伍氏宗亲会主席</div>
             </div>
